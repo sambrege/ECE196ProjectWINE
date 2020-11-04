@@ -1,1 +1,13 @@
-Contains ECE 196 project files, by Sam Brege and Mani Amani
+Contains ECE 196 ML project files, by Sam Brege and Mani Amani
+
+TODO:
+>Get probability of predictions, compare with normal graphs or something: like chance that               it would predict it correctly at random
+
+>Compare White to Red
+
+>Infer from Data
+
+>Deep learning?
+
+>Do some Linear Regression to compare
+
